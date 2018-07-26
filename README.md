@@ -1,1 +1,1 @@
-# Project_Naive_Bees.Image_Loading_and_Processing
+# Python_Project_Naive_Bees.Image_Loading_and_Processing
